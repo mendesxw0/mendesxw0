@@ -10,6 +10,6 @@ Here you'll find some projects focused in the following technologies:
 <p>-Spring Cloud (Config Server, Discovery, API Gateway, OpenFeign)</p>
 <p>-Relational and Non-Relational Databases (SQL Server, MySQL, MongoDB)</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksslucas\&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mendesxw0\&layout=compact)
 
 Enjoy :)
